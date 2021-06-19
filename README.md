@@ -14,6 +14,8 @@ normal databases are fast only in querying and consistency of data. If there is 
 
 # Q2
 
+The Execution model is added to solve the many to many problem and to store collection
+frequency and last collection time of bins by operation.
 
 ![ER Diagram](https://github.com/hugurozmen/Evreka-backend/blob/main/ER-Diagram.png)
 
